@@ -100,7 +100,7 @@ ul {
 .header {
   padding-top: 50px;
   margin-bottom: 38px;
-  background-image: url(/img/header/fold.svg);
+  background-image: url(/img/header/fold-2.png);
   background-position: center;
   -webkit-background-size: cover;
   background-size: cover;
@@ -228,7 +228,7 @@ input[type="checkbox"]:checked ~ .menu-burger-list {
   content: "";
   position: absolute;
   background-color: #fff;
-  background-image: url(/img/header/chart.svg);
+  background-image: url(/img/header/chart.png);
   background-repeat: no-repeat;
   background-position: center;
   padding: 25.87px 48.18px 36.7px 34.29px;
@@ -348,7 +348,7 @@ input[type="checkbox"]:checked ~ .menu-burger-list {
 }
 
 .pricing {
-  background-image: url(/img/header/fold.svg);
+  background-image: url(/img/header/fold-2.png);
   background-position: center;
   -webkit-background-size: cover;
   background-size: cover;
