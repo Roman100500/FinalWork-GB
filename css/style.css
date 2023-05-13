@@ -673,6 +673,13 @@ svg:active .svg-name {
   gap: 40px;
 }
 
+@media (min-width: 1599px) {
+  .header,
+  .pricing {
+    background-position: left bottom;
+  }
+}
+
 @media (max-width: 1149px) {
   .center3 {
     max-width: 335px;
