@@ -777,6 +777,7 @@ svg:active .svg-name {
   }
 
   .header {
+    background-image: url(../img/header/fold.svg);
     margin-bottom: 50px;
     min-height: 855px;
     overflow-x: visible;
