@@ -100,7 +100,7 @@ ul {
 .header {
   padding-top: 50px;
   margin-bottom: 38px;
-  background-image: url(../img/header/fold.svg);
+  background-image: url(../img/header/background.png);
   background-position: center;
   -webkit-background-size: cover;
   background-size: cover;
